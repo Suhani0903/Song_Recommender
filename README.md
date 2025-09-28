@@ -7,6 +7,7 @@ visualizations of lyric patterns using Matplotlib and Seaborn, making music disc
 
 🚀 Features
 ✅ Personalized song recommendations based on lyrics
+
 ✅ TF–IDF + Cosine Similarity for accurate matching
 ✅ Real-time recommendations via Streamlit web interface
 ✅ Data visualization of lyric patterns and similarities
