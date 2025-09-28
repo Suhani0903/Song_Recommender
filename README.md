@@ -6,16 +6,25 @@ and cosine similarity to suggest songs with similar lyrical content. Additionall
 visualizations of lyric patterns using Matplotlib and Seaborn, making music discovery more interactive and insightful.
 
 🚀 Features
+
 ✅ Personalized song recommendations based on lyrics
 
 ✅ TF–IDF + Cosine Similarity for accurate matching
+
 ✅ Real-time recommendations via Streamlit web interface
+
 ✅ Data visualization of lyric patterns and similarities
+
 ✅ Simple, lightweight, and interactive UI
 
 🛠️ Tech Stack
+
 Python
+
 Streamlit – for the web interface
+
 Scikit-learn – TF–IDF & similarity
+
 Matplotlib & Seaborn – visualization
+
 Pandas & NumPy – data handling
